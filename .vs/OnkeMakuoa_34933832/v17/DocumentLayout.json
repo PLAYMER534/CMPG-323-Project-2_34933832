@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\controllers\\telemetrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\controllers\\telemetrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\authentification\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\authentification\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\authentification\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\authentification\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\authentification\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\authentification\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\authentification\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\authentification\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\authentification\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\authentification\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\authentification\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\authentification\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\authentification\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\authentification\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\authentification\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\authentification\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\controllers\\telemetrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\controllers\\telemetrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\authentification\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Authentification\\LoginModel.cs",
               "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Authentification\\LoginModel.cs",
@@ -86,12 +86,11 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Authentification\\LoginModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T15:36:47.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T15:36:47.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Authentification\\RegisterModel.cs",
               "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Authentification\\RegisterModel.cs",
@@ -99,12 +98,11 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Authentification\\RegisterModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T15:35:49.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T15:35:49.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Authentification\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Authentification\\ApplicationUser.cs",
@@ -112,12 +110,11 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Authentification\\ApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T15:32:24.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T15:32:24.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Authentification\\Response.cs",
               "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Authentification\\Response.cs",
@@ -125,12 +122,11 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Authentification\\Response.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T15:38:21.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T15:38:21.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserRoles.cs",
               "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Authentification\\UserRoles.cs",
               "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Authentification\\UserRoles.cs",
@@ -138,8 +134,7 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Authentification\\UserRoles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T15:34:58.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T15:34:58.047Z"
             },
             {
               "$type": "Document",
@@ -149,14 +144,14 @@
               "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Controllers\\AuthenticateController.cs",
               "ToolTip": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Controllers\\AuthenticateController.cs",
               "RelativeToolTip": "OnkeMakuoa_34933832\\Controllers\\AuthenticateController.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAwwGIAAAAAAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T15:02:48.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "TelemetryController.cs",
               "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Controllers\\TelemetryController.cs",
               "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Controllers\\TelemetryController.cs",
@@ -164,8 +159,7 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Controllers\\TelemetryController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T20:37:27.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T20:37:27.896Z"
             },
             {
               "$type": "Document",
@@ -177,8 +171,7 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Authentification\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T15:33:42.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T15:33:42.132Z"
             },
             {
               "$type": "Document",
@@ -190,8 +183,7 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T11:48:01.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T11:48:01.158Z"
             },
             {
               "$type": "Document",
@@ -203,8 +195,7 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\appsettings.json",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-08T14:10:50.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T14:10:50.645Z"
             },
             {
               "$type": "Document",
@@ -216,8 +207,7 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Models\\NwutechTrendsContext.cs",
               "ViewState": "AQIAAFgAAAAAAAAAAAAQwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T17:08:39.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T17:08:39.226Z"
             },
             {
               "$type": "Document",
@@ -229,8 +219,7 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Models\\JobTelemetry.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAA2wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T22:52:42.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T22:52:42.246Z"
             },
             {
               "$type": "Document",
@@ -242,8 +231,7 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Models\\Client.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T22:52:47.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T22:52:47.336Z"
             },
             {
               "$type": "Document",
@@ -255,8 +243,7 @@
               "RelativeToolTip": "OnkeMakuoa_34933832\\Properties\\launchsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-09T05:54:11.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T05:54:11.728Z"
             }
           ]
         }
