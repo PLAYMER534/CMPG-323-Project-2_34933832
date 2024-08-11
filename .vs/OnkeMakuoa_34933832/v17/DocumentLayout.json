@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\models\\nwutechtrendscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\models\\nwutechtrendscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\controllers\\telemetrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\controllers\\telemetrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\onkemakuoa_34933832.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\onkemakuoa_34933832.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\models\\jobtelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\models\\jobtelemetry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|c:\\users\\zanel\\onedrive\\documents\\onkemakuoa_34933832\\onkemakuoa_34933832\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42AD447-7E5D-4DB1-A454-99204C8C274B}|OnkeMakuoa_34933832\\OnkeMakuoa_34933832.csproj|solutionrelative:onkemakuoa_34933832\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\appsettings.json",
+              "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\appsettings.json",
+              "ToolTip": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\appsettings.json",
+              "RelativeToolTip": "OnkeMakuoa_34933832\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T14:10:50.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnkeMakuoa_34933832.http",
+              "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832.http",
+              "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\OnkeMakuoa_34933832.http",
+              "ToolTip": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832.http",
+              "RelativeToolTip": "OnkeMakuoa_34933832\\OnkeMakuoa_34933832.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-09T22:47:58.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Program.cs",
+              "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Program.cs",
+              "ToolTip": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Program.cs",
+              "RelativeToolTip": "OnkeMakuoa_34933832\\Program.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:48:01.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelemetryController.cs",
+              "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Controllers\\TelemetryController.cs",
+              "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Controllers\\TelemetryController.cs",
+              "ToolTip": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Controllers\\TelemetryController.cs",
+              "RelativeToolTip": "OnkeMakuoa_34933832\\Controllers\\TelemetryController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAYwHMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T20:37:27.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NwutechTrendsContext.cs",
+              "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Models\\NwutechTrendsContext.cs",
+              "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Models\\NwutechTrendsContext.cs",
+              "ToolTip": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Models\\NwutechTrendsContext.cs",
+              "RelativeToolTip": "OnkeMakuoa_34933832\\Models\\NwutechTrendsContext.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:08:39.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobTelemetry.cs",
+              "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Models\\JobTelemetry.cs",
+              "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Models\\JobTelemetry.cs",
+              "ToolTip": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Models\\JobTelemetry.cs",
+              "RelativeToolTip": "OnkeMakuoa_34933832\\Models\\JobTelemetry.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:52:42.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Models\\Client.cs",
+              "RelativeToolTip": "OnkeMakuoa_34933832\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:52:47.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchsettings.json",
+              "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Properties\\launchsettings.json",
+              "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\Properties\\launchsettings.json",
+              "ToolTip": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\Properties\\launchsettings.json",
+              "RelativeToolTip": "OnkeMakuoa_34933832\\Properties\\launchsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T05:54:11.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "OnkeMakuoa_34933832\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\zanel\\OneDrive\\Documents\\OnkeMakuoa_34933832\\OnkeMakuoa_34933832\\WeatherForecast.cs",
+              "RelativeToolTip": "OnkeMakuoa_34933832\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:48:02.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

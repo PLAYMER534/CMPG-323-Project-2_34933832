@@ -1,0 +1,6 @@
+@OnkeMakuoa_34933832_HostAddress = http://localhost:5242
+
+GET {{OnkeMakuoa_34933832_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
