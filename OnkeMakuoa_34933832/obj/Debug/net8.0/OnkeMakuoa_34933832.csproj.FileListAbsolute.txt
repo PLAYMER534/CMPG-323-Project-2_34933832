@@ -134,3 +134,11 @@ C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\De
 C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\obj\Debug\net8.0\OnkeMakuoa_34933832.sourcelink.json
+C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\zanel\OneDrive\Documents\OnkeMakuoa_34933832\OnkeMakuoa_34933832\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

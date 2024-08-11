@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnkeMakuoa_34933832")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+016205ee02a12646999093d8d28679be4692bc16")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnkeMakuoa_34933832")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnkeMakuoa_34933832")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
