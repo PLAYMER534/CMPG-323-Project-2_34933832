@@ -93,7 +93,8 @@ The API follows standard HTTP status codes:
 
 All endpoints are protected with JWT authentication. 
 
-
+# API URL 
+https://localhost:7085/index.html
 
 
 
