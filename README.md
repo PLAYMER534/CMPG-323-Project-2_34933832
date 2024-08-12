@@ -1,5 +1,105 @@
 # CMPG-323-Project-2_34933832
-#Referencing
+# Overview
+The Telemetry Management API is a robust and scalable API designed to manage telemetry data, offering secure endpoints for data operations. The API is built with ASP.NET Core, integrated with JWT authentication for secure access, and is cloud-hosted on Azure.
+## Table of Contents
+  Features
+  Getting Started
+  API Documentation
+  Endpoints
+  Error Handling
+  Security
+  Deployment
+  Contributing
+  License
+## Features
+JWT Authentication for secure API access.
+CRUD operations for telemetry data management.
+Custom GET methods for specific calculations, such as savings based on telemetry data.
+Swagger integration for interactive API documentation.
+Cloud-hosted on Azure for scalability and reliability.
+Getting Started
+## Prerequisites
+Make sure you have the following installed on your machine:
+
+.NET SDK
+Visual Studio or Visual Studio Code
+SQL Server or any other compatible database.
+## Endpoints
+Authentication
+1 POST /api/authenticate/login
+Purpose: Authenticate users and return a JWT token.
+Request Body:
+json
+Copy code
+{ "username": "string", "password": "string" }
+Response:
+json
+Copy code
+{ "token": "string" }
+Telemetry Data
+2 GET /api/telemetry
+
+Purpose: Retrieve all telemetry data.
+Response: 200 OK with telemetry data list.
+3 GET /api/telemetry/{id}
+
+Purpose: Retrieve telemetry data by ID.
+Response: 200 OK with telemetry data or 404 Not Found.
+4 POST /api/telemetry
+
+Purpose: Create a new telemetry record.
+Request Body:
+json
+Copy code
+{ "property1": "value", "property2": "value", ... }
+Response: 201 Created with the created record.
+5 PUT /api/telemetry/{id}
+
+Purpose: Update a telemetry record by ID.
+Request Body:
+json
+Copy code
+{ "property1": "value", "property2": "value", ... }
+Response: 204 No Content.
+6 DELETE /api/telemetry/{id}
+
+Purpose: Delete a telemetry record by ID.
+Response: 204 No Content.
+Custom Methods
+7 GET /api/telemetry/savings
+Purpose: Calculate and return savings based on telemetry data.
+Response: 200 OK with savings data.
+Error Handling
+The API follows standard HTTP status codes:
+
+200 OK: Request successful.
+201 Created: Resource successfully created.
+204 No Content: Update or deletion successful.
+400 Bad Request: Invalid request parameters.
+401 Unauthorized: Authentication failed.
+404 Not Found: Resource not found.
+
+All endpoints are protected with JWT authentication. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Referencing
 Git Documentation:
 
 Git SCM, 2024. Git - Documentation. [online] Available at: https://git-scm.com/doc [Accessed 11 August 2024].
