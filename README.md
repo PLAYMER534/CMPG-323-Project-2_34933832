@@ -26,7 +26,7 @@ Visual Studio or Visual Studio Code
 SQL Server or any other compatible database.
 ## Endpoints
 Authentication
-1 POST /api/authenticate/login
+## 1 POST /api/authenticate/login
 Purpose: Authenticate users and return a JWT token.
 Request Body:
 json
@@ -37,15 +37,21 @@ json
 Copy code
 { "token": "string" }
 Telemetry Data
-2 GET /api/telemetry
+
+
+## 2 GET /api/telemetry
 
 Purpose: Retrieve all telemetry data.
 Response: 200 OK with telemetry data list.
-3 GET /api/telemetry/{id}
+
+
+## 3 GET /api/telemetry/{id}
 
 Purpose: Retrieve telemetry data by ID.
 Response: 200 OK with telemetry data or 404 Not Found.
-4 POST /api/telemetry
+
+
+## 4 POST /api/telemetry
 
 Purpose: Create a new telemetry record.
 Request Body:
@@ -53,7 +59,9 @@ json
 Copy code
 { "property1": "value", "property2": "value", ... }
 Response: 201 Created with the created record.
-5 PUT /api/telemetry/{id}
+
+
+## 5 PUT /api/telemetry/{id}
 
 Purpose: Update a telemetry record by ID.
 Request Body:
@@ -61,12 +69,16 @@ json
 Copy code
 { "property1": "value", "property2": "value", ... }
 Response: 204 No Content.
-6 DELETE /api/telemetry/{id}
+
+
+## 6 DELETE /api/telemetry/{id}
 
 Purpose: Delete a telemetry record by ID.
 Response: 204 No Content.
 Custom Methods
-7 GET /api/telemetry/savings
+
+## 7 GET /api/telemetry/savings
+
 Purpose: Calculate and return savings based on telemetry data.
 Response: 200 OK with savings data.
 Error Handling
