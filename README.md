@@ -1,4 +1,6 @@
 # CMPG-323-Project-2_34933832
+## Important message to the Lecturer
+i have uploaded my pictures of my certificates/badges under dropbox on efundi together with the pictures of what i encounted when i was trying to submit on microsoft form proof of my certificates.
 # Overview
 The Telemetry Management API is a robust and scalable API designed to manage telemetry data, offering secure endpoints for data operations. The API is built with ASP.NET Core, integrated with JWT authentication for secure access, and is cloud-hosted on Azure.
 ## Table of Contents
